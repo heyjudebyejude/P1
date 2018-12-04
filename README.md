@@ -1,2 +1,0 @@
-# PokeJson
-practica 1
